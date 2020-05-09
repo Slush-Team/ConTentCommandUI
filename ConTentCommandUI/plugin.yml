@@ -1,0 +1,5 @@
+name: ConTentCommandUI
+author: HWABAEG
+main: ConTentCommandUI\ConTentCommandUI
+version: B1
+api: [3.0.0]
